@@ -8,7 +8,7 @@ Cleaning the Dataset and Removing the Duplicate Values From The Dataset.
 
 Sorting the Dataset and Creating the New Columes And Removing unwanted Colmes.
 
-several questions were addressed such as:
+- several questions were addressed such as:
 
 In which country are the survey takers from
 
