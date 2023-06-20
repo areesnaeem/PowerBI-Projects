@@ -20,6 +20,9 @@ The Project is Mainly Bulding to Understand The Total Data Professional Present 
 
 - Happiness index with both Salary and Work/Life Balance
 
+
+
+
 ## Northwind Traders KPI Dashboard
 
 In this Project, I worked as a BI Developer for Northwind Traders for the Maven Northwind Challenge, a global import and export firm that specialises in selling high-quality food goods to restaurants, cafés, and specialty food merchants worldwide. 
